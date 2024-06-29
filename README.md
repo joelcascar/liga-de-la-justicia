@@ -2,6 +2,9 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
+## Subir cambios de local a remoto
+
+Este texto debe de aparecer en el repositorio remoto.
 
 ## Notas
 Pueden hacer lo que quieran...
